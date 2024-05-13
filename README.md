@@ -1,0 +1,1 @@
+This project contains detailed analysis about a banks customers data set spanning across three countries in Europe (Germany, France, Spain). Various metrics that affect the churn rate among the customers are examined and analysed.
